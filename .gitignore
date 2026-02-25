@@ -1,0 +1,27 @@
+# === Python environment & compiled files ===
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Node.js dependencies ===
+node_modules/
+
+# === FAISS vector database (heavy) ===
+vector_db/
+
+# === Temporary or sensitive PDFs ===
+temp_*.pdf
+*.pdf
+
+# === Logs & temp files ===
+*.log
+*.tmp
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === VS Code settings ===
+.vscode/
