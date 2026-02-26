@@ -10,6 +10,7 @@ node_modules/
 
 # === FAISS vector database (heavy) ===
 vector_db/
+uploads/
 
 # === Temporary or sensitive PDFs ===
 temp_*.pdf
