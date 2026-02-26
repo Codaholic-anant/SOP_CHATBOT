@@ -29,5 +29,5 @@ Built with **FastAPI** (backend), **React** (frontend), and **LangChain + FAISS*
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SOP-Chatbot.git
+git clone https://github.com/Codaholic-anant/SOP-Chatbot.git
 cd SOP-Chatbot
